@@ -9,11 +9,11 @@
     </message>
     <message>
         <source>GoldenDict dictionary lookup program, version </source>
-        <translation>GoldenDict 电子词典程序，版本 </translation>
+        <translation>GoldenDict 词典查询程序，版本 </translation>
     </message>
     <message>
         <source>Licensed under GNU GPLv3 or later</source>
-        <translation>授权基于 GNU 公共授权 GPLv3 或更高版本</translation>
+        <translation>授权基于 GNU GPLv3 或更高版本</translation>
     </message>
     <message>
         <source>(c) 2008-2011 Konstantin Isakov (ikm@goldendict.org)</source>
@@ -1593,7 +1593,7 @@
     </message>
     <message>
         <source>Navigation</source>
-        <translation>导航栏</translation>
+        <translation>导航</translation>
     </message>
     <message>
         <source>&amp;View</source>
@@ -1637,7 +1637,7 @@
     </message>
     <message>
         <source>Close all tabs except current</source>
-        <translation>关闭其它标签页</translation>
+        <translation>关闭当前页面外的其它标签页</translation>
     </message>
     <message>
         <source>Opened tabs</source>
@@ -1649,7 +1649,7 @@
     </message>
     <message>
         <source>&amp;Dictionaries...	F3</source>
-        <translation>词典...(&amp;D)   	F3</translation>
+        <translation>词典(&amp;D)...   	F3</translation>
     </message>
     <message>
         <source>New Tab</source>
@@ -1728,14 +1728,14 @@
     <name>MediaWiki::MediaWikiArticleRequest</name>
     <message>
         <source>XML parse error: %1 at %2,%3</source>
-        <translation>XML 语法错误：%1 于 %2, %3</translation>
+        <translation>XML 解析错误：%1 于 %2, %3</translation>
     </message>
 </context>
 <context>
     <name>MediaWiki::MediaWikiWordSearchRequest</name>
     <message>
         <source>XML parse error: %1 at %2,%3</source>
-        <translation>XML 语法错误：%1 于 %2, %3</translation>
+        <translation>XML 解析错误：%1 于 %2, %3</translation>
     </message>
 </context>
 <context>
@@ -1765,7 +1765,7 @@
     </message>
     <message>
         <source>Inactive (disabled) dictionaries:</source>
-        <translation>未启用（已禁用）的词典：</translation>
+        <translation>未启用(已禁用)的词典：</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -1863,7 +1863,7 @@
     </message>
     <message>
         <source>User:</source>
-        <translation>用户名：</translation>
+        <translation>用户：</translation>
     </message>
     <message>
         <source>&amp;Scan Popup</source>
@@ -2001,7 +2001,7 @@ off from main window or tray icon.</source>
     </message>
     <message>
         <source>Check for new program releases periodically</source>
-        <translation>定期检查可用版本</translation>
+        <translation>定期检查可用新版本</translation>
     </message>
     <message>
         <source>With this on, new tabs are opened just after the
@@ -2062,7 +2062,7 @@ seconds, which is specified here.</source>
     </message>
     <message>
         <source>Ctrl key</source>
-        <translation>Ctr l键</translation>
+        <translation>Ctrl 键</translation>
     </message>
     <message>
         <source>Use the following hotkey to show or hide the main window:</source>
@@ -2199,7 +2199,7 @@ but should support most audio file formats.</source>
     </message>
     <message>
         <source>Use any external program to play audio files</source>
-        <translation>使用外部程序播放音频文件。</translation>
+        <translation>使用任何外部程序播放音频文件</translation>
     </message>
     <message>
         <source>Normally, pressing ESC key moves focus to the translation line.
@@ -2227,7 +2227,7 @@ Plugin must be installed for this option to work.</source>
     </message>
     <message>
         <source>Hide single tab</source>
-        <translation>单标签页时隐藏主标签栏</translation>
+        <translation>隐藏单标签页</translation>
     </message>
     <message>
         <source>Send translated word to main window instead of to show it in popup window</source>
@@ -2280,7 +2280,7 @@ It is not needed to select this option if you don&apos;t use such programs.</sou
     </message>
     <message>
         <source>Use &amp;GoldenDict message</source>
-        <translation>使用 &amp;GoldenDict message</translation>
+        <translation>使用 &amp;GoldenDict 信息</translation>
     </message>
     <message>
         <source>Ctrl-Tab navigates tabs in MRU order</source>
@@ -2693,7 +2693,7 @@ p, li { white-space: pre-wrap; }
     <name>WordFinder</name>
     <message>
         <source>Failed to query some dictionaries.</source>
-        <translation>在某些词典中进行查询时失败。</translation>
+        <translation>无法查询某些词典。</translation>
     </message>
 </context>
 </TS>
